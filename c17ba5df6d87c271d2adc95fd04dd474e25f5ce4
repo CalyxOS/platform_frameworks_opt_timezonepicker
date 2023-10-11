@@ -16,6 +16,24 @@
       "message": "Could do 33 here for now given that\u0027s known working, although it\u0027s unlikely to make a difference",
       "revId": "c17ba5df6d87c271d2adc95fd04dd474e25f5ce4",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6039d753_c10693be",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-10-11T18:29:47Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "69b2a27c_21060106",
+      "revId": "c17ba5df6d87c271d2adc95fd04dd474e25f5ce4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

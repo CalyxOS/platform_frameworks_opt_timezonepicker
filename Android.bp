@@ -18,7 +18,7 @@ package {
 
 android_library {
     name: "android-opt-timezonepicker",
-    sdk_version: "current",
+    sdk_version: "34",
     srcs: [
         "src/**/*.java",
         "src/**/*.logtags",
